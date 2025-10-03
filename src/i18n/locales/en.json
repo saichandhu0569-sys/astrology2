@@ -1,0 +1,177 @@
+{
+  "nav": {
+    "home": "Home",
+    "zodiacSigns": "Zodiac Signs",
+    "horoscopes": "Horoscopes",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Journey Through",
+    "titleHighlight": "The Stars",
+    "subtitle": "Unlock the cosmic wisdom of astrology. Discover your zodiac sign's secrets, explore daily horoscopes, and navigate your celestial path.",
+    "exploreBtn": "Explore Zodiac Signs",
+    "horoscopeBtn": "View Horoscopes"
+  },
+  "zodiacSection": {
+    "title": "The Twelve Zodiac Signs",
+    "subtitle": "Discover the unique characteristics, strengths, and cosmic energies that define each celestial sign."
+  },
+  "zodiac": {
+    "aries": {
+      "name": "Aries",
+      "description": "Bold and ambitious, Aries dives headfirst into even the most challenging situations. As the first sign of the zodiac, they are natural-born leaders with an infectious enthusiasm.",
+      "strengths": ["Courageous", "Determined", "Confident", "Enthusiastic", "Optimistic", "Honest", "Passionate"],
+      "weaknesses": ["Impatient", "Moody", "Short-tempered", "Impulsive", "Aggressive"]
+    },
+    "taurus": {
+      "name": "Taurus",
+      "description": "Taurus is an earth sign represented by the bull. Like their celestial spirit animal, they enjoy relaxing in serene, bucolic environments, surrounded by soft sounds and soothing aromas.",
+      "strengths": ["Reliable", "Patient", "Practical", "Devoted", "Responsible", "Stable"],
+      "weaknesses": ["Stubborn", "Possessive", "Uncompromising"]
+    },
+    "gemini": {
+      "name": "Gemini",
+      "description": "Gemini is represented by the celestial twins, reflecting this sign's dual nature. Geminis are social butterflies with an insatiable curiosity that drives them to constantly explore new ideas.",
+      "strengths": ["Gentle", "Affectionate", "Curious", "Adaptable", "Quick learner", "Witty"],
+      "weaknesses": ["Nervous", "Inconsistent", "Indecisive"]
+    },
+    "cancer": {
+      "name": "Cancer",
+      "description": "Cancer is a cardinal water sign represented by the crab. Deeply intuitive and sentimental, Cancers can be the most challenging zodiac signs to get to know, but they are loyal and caring.",
+      "strengths": ["Tenacious", "Highly imaginative", "Loyal", "Emotional", "Sympathetic", "Persuasive"],
+      "weaknesses": ["Moody", "Pessimistic", "Suspicious", "Manipulative", "Insecure"]
+    },
+    "leo": {
+      "name": "Leo",
+      "description": "Leo is represented by the lion and these spirited fire signs are the kings and queens of the celestial jungle. Leos are celebrated for their remarkable bravery and regal bearing.",
+      "strengths": ["Creative", "Passionate", "Generous", "Warm-hearted", "Cheerful", "Humorous"],
+      "weaknesses": ["Arrogant", "Stubborn", "Self-centered", "Lazy", "Inflexible"]
+    },
+    "virgo": {
+      "name": "Virgo",
+      "description": "Virgo is an earth sign historically represented by the goddess of wheat and agriculture. Virgos are logical, practical, and systematic in their approach to life.",
+      "strengths": ["Loyal", "Analytical", "Kind", "Hardworking", "Practical"],
+      "weaknesses": ["Shyness", "Worry", "Overly critical", "All work and no play"]
+    },
+    "libra": {
+      "name": "Libra",
+      "description": "Libra is an air sign represented by the scales, the only inanimate object of the zodiac. Libras are obsessed with symmetry and strive to create equilibrium in all areas of life.",
+      "strengths": ["Cooperative", "Diplomatic", "Gracious", "Fair-minded", "Social"],
+      "weaknesses": ["Indecisive", "Avoids confrontations", "Will carry a grudge", "Self-pity"]
+    },
+    "scorpio": {
+      "name": "Scorpio",
+      "description": "Scorpio is a water sign that uses emotional energy as fuel. These signs are incredibly passionate and assertive, known for their intense emotional depth and transformative nature.",
+      "strengths": ["Resourceful", "Brave", "Passionate", "Stubborn", "True friend"],
+      "weaknesses": ["Distrusting", "Jealous", "Secretive", "Violent"]
+    },
+    "sagittarius": {
+      "name": "Sagittarius",
+      "description": "Sagittarius is represented by the archer and is always on a quest for knowledge. The last fire sign of the zodiac, they have an insatiable wanderlust and philosophical nature.",
+      "strengths": ["Generous", "Idealistic", "Great sense of humor"],
+      "weaknesses": ["Promises more than can deliver", "Very impatient", "Will say anything"]
+    },
+    "capricorn": {
+      "name": "Capricorn",
+      "description": "Capricorn is the last earth sign, represented by the sea goat. Capricorns are skilled at navigating both the material and emotional realms, demonstrating mastery and persistence.",
+      "strengths": ["Responsible", "Disciplined", "Self-control", "Good managers"],
+      "weaknesses": ["Know-it-all", "Unforgiving", "Condescending", "Expecting the worst"]
+    },
+    "aquarius": {
+      "name": "Aquarius",
+      "description": "Aquarius is represented by the water bearer, the mystical healer who bestows water upon the land. Despite being an air sign, they are deeply humanitarian and committed to making the world better.",
+      "strengths": ["Progressive", "Original", "Independent", "Humanitarian"],
+      "weaknesses": ["Runs from emotional expression", "Temperamental", "Uncompromising", "Aloof"]
+    },
+    "pisces": {
+      "name": "Pisces",
+      "description": "Pisces is the last constellation of the zodiac, absorbing all lessons from the signs before it. They are the most intuitive and sensitive of all signs, with remarkable emotional depth.",
+      "strengths": ["Compassionate", "Artistic", "Intuitive", "Gentle", "Wise", "Musical"],
+      "weaknesses": ["Fearful", "Overly trusting", "Sad", "Desire to escape reality"]
+    }
+  },
+  "elements": {
+    "Fire": "Fire",
+    "Earth": "Earth",
+    "Air": "Air",
+    "Water": "Water"
+  },
+  "zodiacDetail": {
+    "backBtn": "Back to All Signs",
+    "notFound": "Zodiac Sign Not Found",
+    "returnHome": "Return Home",
+    "aboutTitle": "About {{name}}",
+    "rulingPlanet": "Ruling Planet",
+    "element": "Element",
+    "compatibilityTitle": "Compatibility",
+    "compatibilityText": "{{name}} is most compatible with:",
+    "strengthsTitle": "Strengths",
+    "weaknessesTitle": "Weaknesses",
+    "horoscopeTitle": "{{name}} Horoscope",
+    "signLabel": "Sign"
+  },
+  "horoscopes": {
+    "pageTitle": "Your Cosmic Guidance",
+    "pageSubtitle": "Discover what the stars have in store for you. Select your zodiac sign and explore daily, weekly, or monthly horoscopes.",
+    "daily": "Daily",
+    "weekly": "Weekly",
+    "monthly": "Monthly",
+    "dailyTitle": "Daily Horoscope",
+    "dailyDesc": "Your cosmic guidance for today",
+    "weeklyTitle": "Weekly Horoscope",
+    "weeklyDesc": "Your cosmic guidance for this week",
+    "monthlyTitle": "Monthly Horoscope",
+    "monthlyDesc": "Your cosmic guidance for this month",
+    "dailyText": "Today brings powerful cosmic energy for {{name}}. The alignment of the stars suggests new opportunities on the horizon. Trust your intuition and embrace the changes coming your way.",
+    "weeklyText": "This week, {{name}}, the universe has aligned in your favor. Expect breakthroughs in personal and professional areas. Mid-week brings exciting opportunities for growth.",
+    "monthlyText": "As we journey through this month, {{name}} natives will experience transformative growth. The stars illuminate your path with wisdom and inspiration. Major cosmic shifts favor your endeavors."
+  },
+  "about": {
+    "pageTitle": "The Ancient Art of Astrology",
+    "pageSubtitle": "Discover the celestial wisdom that has guided humanity for millennia",
+    "intro1": "Astrology is an ancient practice that studies the movements and relative positions of celestial bodies and interprets them as having an influence on human affairs and the natural world. For thousands of years, cultures around the world have looked to the stars for guidance, wisdom, and understanding.",
+    "intro2": "The foundation of Western astrology lies in the zodiac—a belt of the heavens divided into twelve equal parts, each associated with a constellation and representing different personality traits, energies, and life themes.",
+    "sunSignsTitle": "The Sun Signs",
+    "sunSignsText": "Your sun sign represents your core identity, ego, and the essence of who you are. It's determined by the position of the sun at the moment of your birth and is the most commonly known aspect of astrology.",
+    "elementsTitle": "The Elements",
+    "elementsText": "The twelve zodiac signs are divided into four elements: Fire, Earth, Air, and Water. Each element represents fundamental energies and characteristics that influence how signs express themselves.",
+    "horoscopeTitle": "Understanding Your Horoscope",
+    "horoscopeText1": "A horoscope is an astrological chart or diagram representing the positions of celestial bodies at a specific time. Daily, weekly, and monthly horoscopes interpret how current planetary movements affect each zodiac sign.",
+    "horoscopeText2": "While your sun sign is important, a complete astrological profile considers your moon sign (emotions), rising sign (outer personality), and the positions of all planets in your birth chart.",
+    "journeyTitle": "Begin Your Cosmic Journey",
+    "journeyText": "Whether you're a seasoned astrology enthusiast or just beginning to explore the stars, understanding your zodiac sign can offer profound insights into your personality, relationships, and life path. The cosmos has stories to tell—are you ready to listen?"
+  },
+  "contact": {
+    "pageTitle": "Connect With Us",
+    "pageSubtitle": "Have questions about your cosmic journey? We're here to help.",
+    "formTitle": "Send Us a Message",
+    "nameLabel": "Name",
+    "namePlaceholder": "Your name",
+    "emailLabel": "Email",
+    "emailPlaceholder": "your.email@example.com",
+    "messageLabel": "Message",
+    "messagePlaceholder": "Tell us about your cosmic inquiry...",
+    "sendBtn": "Send Message",
+    "sendingBtn": "Sending...",
+    "emailTitle": "Email",
+    "phoneTitle": "Phone",
+    "locationTitle": "Location",
+    "readyTitle": "Ready to Begin?",
+    "readyText": "Let the stars guide your path. Reach out and discover the cosmic wisdom that awaits you.",
+    "successTitle": "Message Sent!",
+    "successDesc": "Thank you for reaching out. We'll respond to your cosmic inquiry soon."
+  },
+  "footer": {
+    "description": "Discover your cosmic path through the ancient wisdom of the stars. Your journey to self-discovery begins here.",
+    "quickLinks": "Quick Links",
+    "zodiacSigns": "Zodiac Signs",
+    "copyright": "Cosmic Astrology. Made with",
+    "stardust": "and stardust."
+  },
+  "notFound": {
+    "title": "404",
+    "subtitle": "This cosmic path doesn't exist in our universe",
+    "returnBtn": "Return to the Stars"
+  }
+}
